@@ -1,0 +1,2121 @@
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/006/018/796/large/gustavo-rinaldi-201705019.jpg?1495464067
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9jefgc/rain_by_gustavo_rinaldi/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 12:18:17 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/yf3y2ydemot11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9qb7b5/fates_heat_sink_dalai_2018/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 12:36:32 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/e23vvucq95z11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9y957z/under_the_pier_paignton_uk/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 12:53:29 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/nznwfb3lwry11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9xr5y7/bw_ilford_pan_400_film_rainy_night_at_buenos_aires/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 1:14:00 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://3.bp.blogspot.com/-aBPJSc9uXaQ/W0tof3ggjkI/AAAAAAAAFNA/977BqP33D_YpjB9FzVYBYvMPm_ijeMuHQCLcBGAs/s1600/Gaia2sm_VanessaLemen.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9eqfya/gaia_by_vanessa_lemen/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 1:34:11 PM
+----------------------------------------------------------
+* New image was selected from /r/painting
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/a5kxd6rpdl021.jpg
+* Image source: https://www.reddit.com/r/painting/comments/a0fgh3/wildfires_acrylic_on_canvas_16x20/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 1:53:57 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/pyudqocvyax11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9vk6tv/vitality_by_24/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 2:13:37 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/003/454/061/large/andrey-belichenko-belichenko-boukhtiyarova.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9z5odu/sleepy_by_andrey_belichenko_mariya_boukhtiyarova/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 2:33:40 PM
+----------------------------------------------------------
+* New image was selected from /r/ClassicalNudes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/db8O0nh.jpg
+* Image source: https://www.reddit.com/r/ClassicalNudes/comments/90p3w9/by_the_window/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 2:53:41 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/88gfbjexckw11.png
+* Image source: https://www.reddit.com/r/Heavymind/comments/9ugqsw/oc_home/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/hbs001gincy11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9x3cru/bonnie_beevor_hornet_1242x2208/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 3:15:38 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/y1wuoqomjb121.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a1kbgm/the_outside_in_oc_iphone_x/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 3:35:58 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/001/141/600/large/yuya-takeda-lampworld.jpg?1440926584
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9gc5uh/a_valley_of_light_by_yuya_takeda/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 3:55:15 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/runvc80jdxx11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9wfda8/a_flower/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 4:15:32 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/011/401/083/large/ilya-kuvshinov-img-7107.jpg?1529406948
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9i2ub6/dark_corner_by_ilya_kuvshinov/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 4:34:58 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ypivplnt74t11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9pidmm/unbox_a_ball/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 4:55:40 PM
+----------------------------------------------------------
+* New image was selected from /r/ClassicalNudes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/7UnIcBJ.jpg
+* Image source: https://www.reddit.com/r/ClassicalNudes/comments/9ayqm5/liligail/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 5:15:24 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/mro2evhva5z11.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/9y97dw/neusiedlersee_by_unknown/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 5:34:59 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/013/932/682/large/shahab-alizadeh-heart-of-the-forest-1.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9vzh4n/heart_of_the_forest_by_shahab_alizadeh/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 5:55:20 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/012/784/826/large/ann-ann-11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9mov9z/nightmare_by_ann_ann/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 6:15:25 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/010/474/194/large/bruna-sanches-final-1200px.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9kq7af/starry_night_by_bruna_sanches/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 6:35:34 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/h4e1b4i2cbz11.png
+* Image source: https://www.reddit.com/r/Heavymind/comments/9yi6p9/untitled/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 6:55:43 PM
+----------------------------------------------------------
+* New image was selected from /r/ClassicalNudes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/suFIVjM.jpg
+* Image source: https://www.reddit.com/r/ClassicalNudes/comments/8y4mbi/classical_pose/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 7:15:02 PM
+----------------------------------------------------------
+* New image was selected from /r/ClassicalNudes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://orig00.deviantart.net/6a16/f/2018/121/8/b/34637_by_lestrovoy-dcadazr.jpg
+* Image source: https://www.reddit.com/r/ClassicalNudes/comments/8gl3qz/by_lestrovoy_xpost_rlabeautefeminine/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 7:35:12 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ClassicalNudes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/rNjjNvX.jpg
+* Image source: https://www.reddit.com/r/ClassicalNudes/comments/9jmswc/clelia/
+* Downloading Image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/013/971/602/large/ninon-godet-splashameliore.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9w63ip/why_didnt_you_listen_by_ninon_godet/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 1/12/2018, 7:51:54 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/a8ilokuqjl021.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a0fpj6/the_wyrd/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 7:38:26 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/i7l03gjvydy11.png
+* Image source: https://www.reddit.com/r/Heavymind/comments/9x5rjk/extramycelial_2018_digital_1920x1080_oc/
+* Downloading Image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/00zn07whsfm11.png
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9g394r/sketches_003_by_alena_aenami/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 8:06:34 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/zae6lks99py11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9xmfb9/siberian_cat_silhouette_illustration_by_i13artwork/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 8:21:42 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/0hkq6505p6z11.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9ybmrk/photographer_fromtherooftops_photography/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 8:41:38 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/992nqosx35v11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9sdvqc/just_around_the_bend/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Error uploading image!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/a0ts82y8qw121.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a2foh9/lake_boston_digital_3416x3979/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 9:05:26 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/k50dq8fwzv121.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a2earp/oak_island_no_1_digital_3300x2550px/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/014/133/411/large/jakub-vykoukal-makeawishvykoukal.jpg?1542630134
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9yrhw4/make_a_wish_by_jakub_vykoukal/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 9:42:14 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/RJL8o6j.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9he1kp/noemi/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 10:03:52 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/svcma4cdrek11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9d5q3p/tonight_the_colour_of_the_moon_is_by_towanomi/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 10:22:39 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/osw9747vxc121.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a1mwj8/squaredoodle_by_adabadu_flickr/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 2/12/2018, 10:42:02 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/88gfbjexckw11.png
+* Image source: https://www.reddit.com/r/Heavymind/comments/9ugqsw/oc_home/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ofi6550e8z121.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a2kbwp/watercolor_1/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 5:37:36 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/012/994/148/large/siwoo-kim-2018-mermaid.jpg?1537533481
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9jpxob/encounter_by_siwoo_kim/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 5:57:05 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ihrp79ummxx11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9wftfe/riverman_minolta_ilford_delta_100/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 6:16:59 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/l57d24nvq7x11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9vgdl8/shows/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 6:38:29 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/xmjd6c0ey0021.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9zlv0j/late_night_scene/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 6:57:14 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/1bdhqg4ikyu11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9s4rl6/untitled_by_nyuszi/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 7:17:58 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/zmcnepzog0021.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9zlcae/freedom_from_want_norman_rockwell_1943_1179_x_1500/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 7:37:22 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/85dl7y36ay121.png
+* Image source: https://www.reddit.com/r/Art/comments/a2ipcm/zombie_digital_art_2018/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 7:58:17 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/elw9ewt3k8z11.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/9yef69/oh_you_child_of_man_illustration_inspired_by_the/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 8:17:15 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/7knpaucdmxy11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9xyjz3/winter_is_upon_us_so_here_is_my_alltime_favourite/
+* Downloading Image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/uNaJ6nt.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9elvll/brianas_strategic_placement/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 8:45:49 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/s3xuyn5asbf11.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9bnygd/ashlee_potts/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 9:04:09 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://pre00.deviantart.net/48a7/th/pre/f/2016/099/f/5/curtain_by_caringwong-d9ybhwz.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9lwjje/curtain_by_caring_wong/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 9:24:22 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/jtknmmhleq021.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a0mx6y/by_anne_ki/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 9:45:52 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/eq33tlnq03221.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a2posz/warm_sunset_oils_8x10/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 10:04:32 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/687mdbyh2x121.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a2gcve/moon_walking_on_the_sun_pen_drawing_10x10/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 10:24:21 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/bfdnmlzru4y11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9wr2na/saint_panteleimon_the_healer_nicholas_roerich/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 10:45:31 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/e8k8xm2ekx121.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a2hcsj/grannys_bad_memory_5x7_watercolor/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 11:04:19 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/imdxfl6njn121.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a22ctl/regenereration_2018/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 11:25:08 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/e4s3iurezjy11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9xev5r/james_tissot_the_circus_lover_1885_663x960/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 3/12/2018, 11:44:30 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/003/419/487/large/kirsten-zirngibl-archivita.jpg?1473470374
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9z6xww/archivita_by_kirsten_zirngibl/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 12:04:46 AM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ztr6zlva7fw11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9u9i18/by_me/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 5:24:11 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/o341c709isz11.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/9z9q6m/phantom_2010_by_kenan_d_malcolm/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 5:43:19 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ws5y5cznor121.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a290j8/semiarch_by_fatih_sari/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 6:03:11 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/kqjw300b5zn11.png
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9i7qsx/neon_by_imson/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Error uploading image!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/k2kwczvs45z11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9y8w70/betrayal_cvandotnet_mixed_media_art_3333x2952/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 6:26:20 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/xo5doibc7by11.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/9x0plz/part_of_my_drawings_about_the_abyss/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 6:43:58 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/m11xtg8qlzx11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9wjlbn/kohaku_cvandotnet_mixed_media2975x3490/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 7:04:36 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/hwujcz7i6ry11.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/9xpwgr/a_woman_washing_clothes_by_unknown/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 7:24:05 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ddotzoke7m021.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a0go7j/175_hours_of_carving_spectator_linocut_36x24/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 7:44:59 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/wr2d1ak28bz11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9yhz12/natures_fan_girl_william_adolphe_bouguereau_3795/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 8:04:36 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/012/618/144/large/gustavo-rinaldi-20180830.jpg?1535661303
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9j70c9/coming_home_by_gustavo_rinaldi/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 8:25:36 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/l1ju001h7p121.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a24pcz/floater_cvandotnet_pencil_sketch_2663x3509/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 8:44:28 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/oup7dbixm6021.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9zu7fr/the_sam_laud/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 9:07:52 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/eyscy46zzi021.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a0bad7/dont_let_the_weather_dictate_your_mood_by/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 9:26:46 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/CL3Rcf2.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9ld9og/eugenia/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Error uploading image!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/007/799/533/large/sebastian-dell-aria-a-patriot-s-love-2015.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9zjbz4/a_patriots_love_by_sebastian_dellaria/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/efHq643.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9d37fz/killer_katrin_blonde/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 9:53:32 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/rcf1l5ff6i121.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a1uh0e/3011/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 10:13:15 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/Sz0osFZ.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9xlcph/war_bonnet/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 10:33:08 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/013/757/835/large/justin-gerard-justin-gerard-1810-05hr-72m.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9tjr25/happy_halloween_by_justin_gerard/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 10:54:07 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/3y6xnxa7xa021.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9zzk1z/moonlight_robert_wilhelm_ekman_19th_century_2000/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 11:13:34 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/i7l03gjvydy11.png
+* Image source: https://www.reddit.com/r/Heavymind/comments/9x5rjk/extramycelial_2018_digital_1920x1080_oc/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Error uploading image!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/qv3j8dy8mj121.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a1x3pb/crescent_over_clouds_by_unknown/
+* Downloading Image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ofw8lf0i5a121.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a1ht2b/oc_untitled_ink_markers/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 11:38:52 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/vNtuza1.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9najpy/antique/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 4/12/2018, 11:59:04 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/tsbvm4wmyej11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9bsru5/photo_i_took_then_edited/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/92gwp0sj3xx11.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/9wevqw/the_final_episode_ballpoint_pens/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 6/12/2018, 3:08:22 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/33kwybybzj221.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a3il1i/brute_graphite_and_charcoal_pencil_on_strathmore/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 6/12/2018, 3:28:16 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/0tr6zvp6la121.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a1ij8m/rot/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 11:04:09 AM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/v8cd6nf9mqx11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9w5nvk/a_random_picture_at_the_railway_station/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 11:24:57 AM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/SKjV3Ln.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a39hxx/counterparts/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 11:43:57 AM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://c2.staticflickr.com/2/1926/43716961710_bb7cca23a1_k.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9y623f/melanie/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 12:04:26 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/fhkbt7h30r121.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a27wis/viktor_ivanowich_kudelkin_lift_truck_driver/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 12:24:00 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/6nh7bbmjo0321.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a4964d/faceted_resin_ring_gold_flakes_wood_ring_inside/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 12:43:58 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/kCYVDPF.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9ut28b/floating_weightless/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 1:04:04 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/buazxtk9lyx11.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/9whqip/in_absence_yields_a_presence_micron_pen_on_paper/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 1:24:38 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/oK1vAgk.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9mbm8a/autumn_sun/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 1:44:08 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/011/842/363/large/stefan-koidl-morefuninhell.jpg?1531722452
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9f2qqu/haunted_asylum_by_stefan_koidl/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 2:04:47 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/DpjPVUn.png
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9u4wro/my_martian_girlfriend/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 2:26:44 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/68q7kj373l221.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a3kgjy/john_william_waterhouse_lamia_oil_on_canvas_1905/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 2:47:14 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/wyc9fpvhde221.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a39db2/portrait_by_ruiz/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 3:03:59 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/x7fdso3tday11.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9wzhnx/friendship_on_a_triad/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 3:24:38 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/sj4vibcdcb121.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a1jy2m/george_vicat_cole_hayfield_near_days_lock_oxon/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Error uploading image!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/3eufl09mb2y11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9wnfjg/you_and_i_versus_the_darkness_oc/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 3:49:41 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ahyw2ehfag221.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a3bq8r/philippe_druillet/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 4:09:04 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/SxtI5br.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9yjxb2/i_found_a_box_of_old_bw_negatives_likely_from_the/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 4:29:01 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/auttg056yu221.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a3zvd9/war_trauma_by_krzysztof_grzondziel_watercolor_a3/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 8/12/2018, 4:49:06 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/vds93z5bjcy11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9x34yb/paul_ranson_apple_tree_with_red_fruit_ca_1902/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 15/12/2018, 2:19:47 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/008/753/286/large/beeple-12-08-17.jpg?1515082810
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9tjcj6/saturated_future_by_mike_winklemann_beeple/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 15/12/2018, 2:40:45 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ubbalg73yxh11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/99t1sz/in_living_color_light_painting_photography/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 15/12/2018, 2:59:54 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/8eu05a8yr2t11.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9pgri3/hope_its_not_too_explicit_but_o_think_this_is_a/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 15/12/2018, 3:20:06 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/5kk1i7ge6az11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9ygaz3/david_tutwiler_homeward_bound_1920_x_1200/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 15/12/2018, 3:40:27 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/hf9q97ooo4221.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a2t1o5/dug_up_mixed_media_1080x1920/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 15/12/2018, 4:00:21 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/b6uq064b3q021.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a0mb1h/flatiron_rolliecord_ilford_delta_100/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 4:25:06 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/pxgjrsgr0r121.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/a27x7h/princess_danii_in_the_blue_mountains_nsw/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 4:43:55 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/eilg86vqk7021.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/9zvlcv/old_railway_switch_near_afton_canyon_mojave/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 5:04:01 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/1ernb2ijrt421.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a6z40j/ebb_and_flow_sharpie_and_gel_pen_6x7/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 5:23:48 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/eoe7psyou2021.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9zo3nj/oskar_nerlinger_stadtbahn_von_berlin_berlin_city/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 5:43:56 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/7tww0f6nlg221.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a3c6am/trees_sea_and_a_boat/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://orig00.deviantart.net/3792/f/2017/230/9/3/931089794eb0ee917983638bd24b0a1e-dbkc69m.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9o20wo/hues/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 6:04:21 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/3zajc9mzzi421.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a6k0jn/color_study_2_complimentary_colors_18x24/
+* Downloading Image...
+* Checking for internet connection...
+    -> Connected to internet
+
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/nm5aulhkry321.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a5pl65/mcpherson_square_2015_by_darrow_montgomery/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 6:24:20 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/mwviys8yazz11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9zjps8/cliff_notes_vinnie_hager_11x14_mixed_media_2018/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 6:44:52 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/minq4gnfso421.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a6rof6/bmxin_east_lothian_scotland_note_9/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 7:04:57 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/tkysd0wk2q221.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a3sabh/hand_mirrored_in_water_by_gernot_schwarz/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 7:24:19 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/mGiq1N0.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9yfqj0/ilvy_kokomo/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 7:44:23 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/dykmmygbec221.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a361bl/gift/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 8:04:37 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/f0mbtlezz3221.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a2rn0i/glider_cvandotnet_pencil_art_2698_x_3939/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 8:24:42 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://static1.squarespace.com/static/54243095e4b07ee637a9f812/t/5bb05d11652dea8b18d4f0a5/1538284824726/suphlatus-revivef.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9kl2br/suphlatus_the_patient_hand_by_peter_mohrbacher_of/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 8:44:59 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/014/158/600/large/anastasiia-kucheriawenko-896bfb29864937-56082114739da.jpg?1542735273
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/a0k0gq/oil_painting_by_anastasiia_kucheriawenko/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 9:04:29 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/pttmp5c7h7021.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/9zvfsv/the_void/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 9:24:21 PM
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/k6f60b2jcbz11.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/9yi7m8/jose_jimenez_aranda_the_painter_joaquin_sorolla/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 9:44:59 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/uLrgoN0.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/a3ds50/vita_sidorkina/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 10:04:26 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/phkd9ul9za321.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a4nsk4/found_while_walking_through_my_neighborhood/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 10:24:19 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/pgylfdkfnu421.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a70c0w/phoenix_a5_artist_pens/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 10:44:25 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/wrieyi2m2c421.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a6aeda/rockland_maine_dec_12_2015_by_neil_doocy/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 11:04:17 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/rpj0cpyh4w421.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a731xr/miscellaneous_objects/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 11:25:27 PM
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/3c26qmldfo021.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a0jav7/waiting_fujifilm_xt20/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 17/12/2018, 11:45:42 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/jh2u3nd4qv421.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a729vl/abandoned_by_unknown/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 4:11:04 PM
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/2yfz8zmfby421.png
+* Image source: https://www.reddit.com/r/Art/comments/a770jw/for_felig_acrylic_on_canvas_36_x_48_2018/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Error uploading image!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/vy5jzubq3s421.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a6x539/zippernicity_2_2013_by_john_gusky/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 4:36:09 PM
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdnb.artstation.com/p/assets/images/images/002/902/099/large/chris-scalf-scaredy-cat-by-chrisscalf-d4e1ufx.jpg?1467071471
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9oydgy/cartoon_cat_by_chris_scalf/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 4:56:26 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/mj9xfzj97pw11.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9unmk3/mikayla_rose_by_oscar_mike/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 5:16:12 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://c2.staticflickr.com/2/1871/30747699428_7446b20474_o.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9fc50t/lucy/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 5:36:44 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/rcvm45g8a5221.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a2ucle/soviet_forbidden_xray_records_by_the_xray_audio/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 5:56:13 PM
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/oydxujyngs221.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a3wor8/balance_by_lynn_m_zmuda/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 6:16:11 PM
+----------------------------------------------------------
+* New image was selected from /r/LaBeauteFeminine
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/b31Ma1O.jpg
+* Image source: https://www.reddit.com/r/LaBeauteFeminine/comments/9rbz8h/radiant/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 6:36:20 PM
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/19zw3d4ag4321.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a4erer/perspective/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 18/12/2018, 6:57:27 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://cdna.artstation.com/p/assets/images/images/013/748/130/large/bruna-sanches-mario-final-insta.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/9tuo1w/super_mario_fanart_by_bruna_sanches/
+* Downloading Image...
+    -> Image download failed
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ArtPorn
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://upload.wikimedia.org/wikipedia/commons/c/cb/Frederick_Childe_Hassam_-_Late_Afternoon%2C_New_York%2C_Winter_-_Google_Art_Project.jpg
+* Image source: https://www.reddit.com/r/ArtPorn/comments/a57gxf/looks_like_monet_but_its_childe_hassams_late/
+* Downloading Image...
+    -> Image download failed
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/izu1bvpsem521.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a89c2c/the_rogue_witch_watercolor_9x12_inch/
+* Downloading Image...
+    -> Image download failed
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/f26037346s321.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a5f2vl/sf_bart_by_jessica_fauci/
+* Downloading Image...
+    -> Image download failed
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Heavymind
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/n6kb7now8s321.jpg
+* Image source: https://www.reddit.com/r/Heavymind/comments/a5f703/drug_induced_psychosis/
+* Downloading Image...
+    -> Image downloaded!
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/blackandwhite
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/59eiz8pib0421.jpg
+* Image source: https://www.reddit.com/r/blackandwhite/comments/a5rqq5/alone/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 21/12/2018, 5:33:18 PM
+----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryFeels
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/77s25zlawn221.jpg
+* Image source: https://www.reddit.com/r/ImaginaryFeels/comments/a3o12b/dont_throw_it_away_by_avogado6/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.imgur.com/dftAwP7.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a7zmo0/dabsmyla_acrylic_on_canvas_2018/
+* Downloading Image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/b8t56zp8rh521.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a820iw/cloudy_again_digital_art_2500x3138px/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/uctqxmj75a521.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a7p7mf/silver_tableware_miniatures_oct_26_2011_by_mauro/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/4bzsf4r5pc321.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a4qthy/rain_by_unknown/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/ImaginaryColorscapes
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/wbhjtil2l2u11.jpg
+* Image source: https://www.reddit.com/r/ImaginaryColorscapes/comments/9qwyjr/something_i_made/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Sizz
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/ba9qk2e20d221.jpg
+* Image source: https://www.reddit.com/r/Sizz/comments/a37481/street_portrait_by_unknown/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 22/12/2018, 5:40:57 PM
+----------------------------------------------------------

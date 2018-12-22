@@ -1,0 +1,32 @@
+body{
+  background: url(https://images.unsplash.com/photo-1545096145-be77276ccccb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2158&q=80);
+  background-position:center;
+  background-size:cover;
+}
+
+#Navbarbutton{
+  border:none;
+  background:none;
+}
+button{
+  cursor: pointer;
+}
+html,body{
+  height: 100%;
+}
+
+.jumbotron{
+  background-color: rgba(245, 245, 245, 0.7);
+}
+
+.navlink{
+	list-style-type: none;
+}
+
+nav{
+  height:8%;
+  max-height: 60px;
+}
+#navPicture{
+  border-radius: 50%;
+}
