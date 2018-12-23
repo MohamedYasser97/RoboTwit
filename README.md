@@ -6,13 +6,13 @@ Your Twitter management portal
   * Search for tweets containing certain keywords or hashtags.
   * Show data on all the search results including likes, retweets and tweet source.
   * Personalised user accounts with editable settings.
-  * Developer accounts that can launch Twitter bots.
+  * Developer accounts that can launch Twitter bots on top of all the user account features.
   * All bot activity is logged.
   * All encountered tweets are stored in the database.
   * An admin page that can be accessed only by the admin to show all users and tweets.
 
 ## Usage
-After cloning this repository, you'll need to take a look on these files:
+After cloning this repository, you'll need to take a look at these files:
   * __artsybot/config.js__\
    This file contains the Twitter API keys that will be responsible for all the searches. Don't mix between this file and config-bot.js
    which is entered by the user in the settings page.
