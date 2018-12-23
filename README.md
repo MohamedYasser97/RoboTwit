@@ -23,8 +23,7 @@ After cloning this repository, you'll need to take a look on these files:
   * __app.js__\
    This is the main file that the website runs from. You can also set the bot tweet intervals from here.
   - - - -
-  \
-  
+ 
   If you face any problems on platforms other than Windows, I advise that you delete the node_modules directory and install
   the following packages:
   * [twit](https://www.npmjs.com/package/twit)
