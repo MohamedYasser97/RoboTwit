@@ -69,7 +69,7 @@ module.exports = {
 
     }
     else{
-      user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`"${searchWord}"+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
+      user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`${searchWord}+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
     }
 
     return next();
@@ -269,7 +269,7 @@ module.exports = {
  },
 
  logout : function(req,res,next){
-  
+
      // idk why this line makes the server crash when logging in just after logging out
      // user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:''}},{new: true, upsert: true,useFindAndModify: false},(err,data)=>{if(err);});
 
