@@ -9,7 +9,7 @@ Your Twitter management portal
   * Developer accounts that can launch Twitter bots.
   * All bot activity is logged.
   * All encountered tweets are stored in the database.
-  
+  * An admin page that can be accessed only by the admin to show all users and tweets.
 
 ## Usage
 After cloning this repository, you'll need to take a look on these files:
