@@ -1,10 +1,10 @@
 var Twit = require('twit');
-var config = require('./config-bot');
+var botConfig = require('./config-bot');
 var tweeter = require('./tweeter');
 var log = require('./logger');
 
 //create a new object from the package and make it public for other modules
-var T = new Twit(config);
+var T = new Twit(botConfig.config);
 module.exports.T=T;
 
 log('* The bot started successfully!\r\n\r\n----------------------------------------------------------');

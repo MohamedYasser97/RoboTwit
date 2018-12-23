@@ -8,10 +8,6 @@ var multipart = require('connect-multiparty');
 var multipartMiddleware = multipart();
 var controller = require('../controllers/controllers');
 
-exports.searchQuery='';
-exports.searchName='';
-exports.botProcess=0;
-
 router.get("/",snowflake.isLoggedOut,(req, res)=>{
    res.render("homePage.ejs");
 });
@@ -77,7 +73,7 @@ router.post("/registration",snowflake.isLoggedOut,controller.registration, (req,
 });
 
 router.post("/login",snowflake.isLoggedOut,passport.authenticate("local",{successRedirect:"/mainPage",failureRedirect:"/login",failureFlash: 'Invalid username or password.'}), (req,res)=>{
-
+	user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:''}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
 });
 
 router.get("/logout",snowflake.isLoggedIn,controller.logout, (req,res)=>{
@@ -88,7 +84,7 @@ router.get("/admin/getUsers",snowflake.isLoggedIn,snowflake.isAdmin,controller.a
 
 });
 
-router.get("/admin/getTweets",snowflake.isLoggedIn,snowflake.isAdmin,(req,res)=>{
+router.get("/admin/getTweets",snowflake.isLoggedIn,snowflake.isAdmin,controller.adminGetTweets,(req,res)=>{
 
 });
 

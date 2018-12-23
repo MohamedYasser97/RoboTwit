@@ -14,7 +14,9 @@ var userSchema = new mongoose.Schema({
 	consumerKey : String,
 	consumerSecret: String,
 	accessToken : String,
-	accessTokenSecret: String
+	accessTokenSecret: String,
+	searchQuery: String,
+	botStatus: Number
 });
 
 userSchema.plugin(passportLocalMongoose);

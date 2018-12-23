@@ -3,10 +3,8 @@ var user = require('../models/user');
 var tweet = require("../models/tweet");
 var passport = require("passport");
 var localStrategy = require("passport-local").Strategy;
-var routes = require('../routes/routes');
 var Twit = require('twit');
 var config = require('../artsybot/config.js');
-var botConfig = require('../artsybot/config-bot.js');
 
 cloudinary.config({
     cloud_name: 'robotwit',
@@ -64,15 +62,14 @@ module.exports = {
     var searchWord = req.query.searchField;
 
     if(searchWord==''){
-      routes.searchQuery = `from:${req.user.username}+-filter:retweets+-filter:replies`;
-      routes.searchName = req.user.username
+      user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`from:${req.user.username}+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
 
     }else if(searchWord[0]=='@'){
-      routes.searchQuery = `from:${searchWord.substring(1,searchWord.length)}+-filter:retweets+-filter:replies`;
-      routes.searchName = searchWord.substring(1,searchWord.length);
+      user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`from:${searchWord.substring(1,searchWord.length)}+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
+
     }
     else{
-      routes.searchQuery = `"${searchWord}"+-filter:retweets+-filter:replies`;
+      user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`"${searchWord}"+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
     }
 
     return next();
@@ -80,14 +77,14 @@ module.exports = {
 
  mainPageDiscover : function(req,res,next){
 
-    routes.searchQuery = '-filter:retweets+-filter:replies';
+    user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:'-filter:retweets+-filter:replies'}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
 
     return next();
  },
 
  mainPagePopular : function(req,res,next){
 
-    routes.searchQuery = '-filter:retweets+-filter:replies+min_retweets:1000+min_faves:5000';
+    user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:'-filter:retweets+-filter:replies+min_retweets:10000+min_faves:50000'}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
 
     return next();
  },
@@ -95,11 +92,17 @@ module.exports = {
  mainPageRefresh : function(req,res,next){
 
         var T = new Twit(config);
+        var resultType='recent';
 
-        if(routes.searchQuery=='')
-          routes.searchQuery=`from:${req.user.username}+-filter:retweets+-filter:replies`;
+        if(req.user.searchQuery=='')
+          user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`from:${req.user.username}+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
 
-        T.get('search/tweets', { result_type: 'recent',q: routes.searchQuery, count: 100 }, function(err, data, response) {
+        if(req.user.searchQuery.substring(req.user.searchQuery.lastIndexOf('_')+1,req.user.searchQuery.lastIndexOf(':'))=='faves')
+          resultType='popular';       
+        else
+          resultType='recent';
+
+        T.get('search/tweets', { result_type: resultType,q: req.user.searchQuery, count: 100 }, function(err, data, response) {
             //console.log(data);
 
             var tweetsId = [];
@@ -154,28 +157,28 @@ module.exports = {
 
  bot : function(req,res,next){
 
-      if(routes.botProcess==0){
-
-        botConfig.config= {consumer_key:req.user.consumerKey , consumer_secret:req.user.consumerSecret,access_token:req.user.accessToken,access_token_secret:req.user.accessTokenSecret};
-
-        require('../artsybot/bot.js');
-        routes.botProcess = setInterval(()=>{require('../artsybot/bot.js')},1000*60);
-
-      }else{
-
-        clearInterval(routes.botProcess);
-        routes.botProcess=0;
-      }
+      if(req.user.botStatus==0)
+        user.findOneAndUpdate({username : req.user.username},{$set:{botStatus:1}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
+      else
+        user.findOneAndUpdate({username : req.user.username},{$set:{botStatus:0}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
+      
+      return next();
  },
 
  mainPageUpdate : function(req,res,next){
 
         var T = new Twit(config);
+        var resultType='recent';
 
-        if(routes.searchQuery=='')
-          routes.searchQuery=`from:${req.user.username}+-filter:retweets+-filter:replies`;
+        if(req.user.searchQuery=='')
+          user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:`from:${req.user.username}+-filter:retweets+-filter:replies`}},{new: true, useFindAndModify: false},(err,data)=>{if(err);});
 
-        T.get('search/tweets', { result_type: 'recent',q: routes.searchQuery, count: 100 }, function(err, data, response) {
+        if(req.user.searchQuery.substring(req.user.searchQuery.lastIndexOf('_')+1,req.user.searchQuery.lastIndexOf(':'))=='faves')
+          resultType='popular';
+        else
+          resultType='recent';
+
+        T.get('search/tweets', { result_type: resultType,q: req.user.searchQuery, count: 100 }, function(err, data, response) {
               //console.log(data);
 
               var tweetsId = [];
@@ -246,7 +249,9 @@ module.exports = {
           consumerKey : '',
           consumerSecret: '',
           accessToken : '',
-          accessTokenSecret: ''
+          accessTokenSecret: '',
+          searchQuery: '',
+          botStatus: 0
         });
         user.register(newUser , req.body.password , (err,user)=>{
 
@@ -264,10 +269,11 @@ module.exports = {
  },
 
  logout : function(req,res,next){
+  
+     // idk why this line makes the server crash when logging in just after logging out
+     // user.findOneAndUpdate({username : req.user.username},{$set:{searchQuery:''}},{new: true, upsert: true,useFindAndModify: false},(err,data)=>{if(err);});
 
-      routes.searchQuery='';
-      routes.searchName='';
-      routes.botProcess=0;
+      user.findOneAndUpdate({username : req.user.username},{$set:{botStatus:0}},{new: true, upsert: true,useFindAndModify: false},(err,data)=>{if(err);});
 
       req.logout();
 

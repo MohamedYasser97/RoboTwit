@@ -5,9 +5,26 @@ var passport = require("passport");
 var localStrategy = require("passport-local");
 var flash = require('connect-flash');
 var user = require("./models/user");
+var botConfig = require('./artsybot/config-bot');
 
 var app = express();
 const port = 3000;
+
+setInterval(()=>{
+
+	user.find().then(doc => {
+    	
+    	doc.forEach(function(obj){
+
+    		if(obj.botStatus==1){
+    			botConfig.config= {consumer_key:obj.consumerKey , consumer_secret:obj.consumerSecret,access_token:obj.accessToken,access_token_secret:obj.accessTokenSecret};
+    			require('./artsybot/bot.js');
+    		}
+        
+    	});
+    });
+
+},1000*60);
 
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({extended : true}));

@@ -2119,3 +2119,19 @@
     -> Tweet sent!
     -> 22/12/2018, 5:40:57 PM
 ----------------------------------------------------------
+* The bot started successfully!
+
+----------------------------------------------------------
+* New image was selected from /r/Art
+* Fetching image...
+    -> Image successfully fetched!
+* Image URL: https://i.redd.it/7e3ce2e5d0621.jpg
+* Image source: https://www.reddit.com/r/Art/comments/a8tud9/god_watches_digital_1500_x_2100/
+* Downloading Image...
+    -> Image downloaded!
+* Uploading image...
+    -> Image uploaded!
+* Sending tweet...
+    -> Tweet sent!
+    -> 23/12/2018, 1:25:03 PM
+----------------------------------------------------------
