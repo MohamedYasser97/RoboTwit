@@ -42,7 +42,7 @@ After cloning this repository, you'll need to take a look on these files:
   * [passport-local](https://www.npmjs.com/package/passport-local)
   * [passport-local-mongoose](https://www.npmjs.com/package/passport-local-mongoose)
 
- **YOU MUST HAVE NODE AND MONGODB INSTALLED!**
+ **YOU MUST HAVE NODE AND MONGODB INSTALLED AND MAKE SURE mongod IS RUNNING FIRST!**
 
 Now start the server with the command:
   `node app.js`\
