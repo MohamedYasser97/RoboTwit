@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({extended : true}));
 app.use(express.static(__dirname + "/public"));
 /////////////////////////////////////////////////////////////////////////
 const mongoURI = "mongodb://localhost/robotwit";
-const conn = mongoose.connect(mongoURI);
+const conn = mongoose.connect(mongoURI,{ useNewUrlParser: true });
 mongoose.set('useCreateIndex', true);
 /////////////////////////////////////////////////////////////////////////
 app.set("view engine", "ejs");
@@ -45,5 +45,5 @@ passport.deserializeUser(user.deserializeUser());
 var routes = require('./routes/routes.js');
 app.use("",routes);
 app.listen(port, ()=> {
-	console.log(`A server is listening to you! \nPort: ${port}`);
+	console.log(`The server is listening to you! \nPort: ${port}`);
 });

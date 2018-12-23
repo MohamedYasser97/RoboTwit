@@ -13,9 +13,6 @@
 
 <div class="container pt-5">
 
-
-
-
 <div class="row">
 <div class="col-lg-12 ">
   <div class="jumbotron "  id="userjumbotron" >
@@ -24,14 +21,10 @@
   <hr class="my-4">
   <p>Sign up now and join our great community!</p>
 
-  <button id="userButton" type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#signUpModalUser">Sign up</button>
+  <button id="userButton" type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#signUpModal" onclick="setUser()">Sign up</button>
 </div>
 </div>
 </div>
-
-
-
-
 
 <div class="row">
   <div class="col-lg-12">
@@ -40,13 +33,13 @@
   <p class="lead">With a developer account, you can have all of the user account services PLUS running your own Twitter bot straight from the website.</p>
   <hr class="my-4">
   <p>Sign up now and join our great community!</p>
-  <button id="devButton" type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#signUpModalDev">Sign up</button>
+  <button id="devButton" type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#signUpModal" onclick="setDev()">Sign up</button>
 </div>
 </div>
 </div>
 
 
-<div class="modal fade" id="signUpModalUser" role="dialog" >
+<div class="modal fade" id="signUpModal" role="dialog" >
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
@@ -57,8 +50,7 @@
       </div>
       <div class="modal-body">
 
-
-        <form action="/registration" method="POST">
+        <form action="/registration" method="POST" name="registrationForm">
 
           <div class="form-group">
 
@@ -84,13 +76,19 @@
           <hr>
 
           <div class="form-group">
-            <input type="email" class="form-control" placeholder="example@email.com" name="email" required>
+            <input type="email" class="form-control" placeholder="example@email.com" name="email" id="firstEmail" onchange="emailChecker()" required>
+            <br>
+            <input type="email" class="form-control" placeholder="Confirm E-mail" name="emailCheck" id="confirmEmail" onchange="emailChecker()" required>
+            <div id="emailMessage"></div>
           </div>
 
           <hr>
 
           <div class="form-group">
-            <input type="password" class="form-control" placeholder="Password" name="password" required>
+            <input type="password" class="form-control" placeholder="Password" name="password" id="firstPassword" onchange="passwordChecker()" required>
+            <br>
+            <input type="password" class="form-control" placeholder="Confirm Password" name="passwordCheck" id="confirmPassword" onchange="passwordChecker()" required>
+            <div id="passwordMessage"></div>
           </div>
 
           <hr>
@@ -117,9 +115,9 @@
       </div>
       <div class="modal-footer">
 
-        <input type="hidden" value="user" name="accType" />
+        <input type="hidden" value="" name="accType" id="accType"/>
 
-        <button type="submit" class="btn btn-primary">Sign Up</button>
+        <button type="submit" class="btn btn-primary" id="submitButton">Sign Up</button>
 
         </form>
 
@@ -128,95 +126,9 @@
   </div>
 </div>
 
-
-<div class="modal fade" id="signUpModalDev" role="dialog" >
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Sign Up</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-
-
-        <form action="/registration" method="POST">
-
-          <div class="form-group">
-
-            <div class="row">
-              <div class="col">
-                  <input type="text" class="form-control" placeholder="First name" name="firstName" required>
-              </div>
-
-              <div class="col">
-                <input type="text" class="form-control" placeholder="Last name" name="lastName" required>
-              </div>
-
-            </div>
-
-          </div>
-
-          <hr>
-
-          <div class="form-group">
-            <input type="text" class="form-control" placeholder="Username" name="username" required>
-          </div>
-
-          <hr>
-
-          <div class="form-group">
-            <input type="email" class="form-control" placeholder="example@email.com" name="email" required>
-          </div>
-
-          <hr>
-
-          <div class="form-group">
-            <input type="password" class="form-control" placeholder="Password" name="password" required>
-          </div>
-
-          <hr>
-
-          <div class="form-group">
-
-            <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="gender" id="genderMale" value="male">
-            <label class="form-check-label" for="genderMale">Male</label>
-            </div>
-
-            <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="gender" id="genderFemale" value="female">
-            <label class="form-check-label" for="genderFemale">Female</label>
-            </div>
-
-            <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="gender" id="mentalDisorder" value="other">
-            <label class="form-check-label" for="mentalDisorder">Other</label>
-            </div>
-
-          </div>
-
-      </div>
-      <div class="modal-footer">
-
-        <input type="hidden" value="developer" name="accType" />
-
-        <button type="submit" class="btn btn-primary">Sign Up</button>
-
-        </form>
-
-
-      </div>
-    </div>
-  </div>
 </div>
 
-</div>
-
-
-
-
+  <script src="scripts/signup.js"></script>
   <script
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="

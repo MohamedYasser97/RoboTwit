@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>RoboTwit</title>
-
   <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
   <link rel="stylesheet" type="text/css" href="mainpage.css">
@@ -48,146 +47,61 @@
     </div>
   </div>
 </div>
-
+  
   <script
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-pjaaA8dDz/5BgdFUPX6M/9SUZv4d12SUPF0axWc+VRZkx5xU3daN+lYb49+Ax+Tl" crossorigin="anonymous"></script>
 
-  <script type="text/javascript">
-
-    function createGraph(chartName,myData,dataIds){
-
-        var backgroundclr=[];
-        var borderclr=[];
-        var entries=[];
-        var title;
-
-        myData = myData.reverse();
-
-        myData.forEach(function(obj){
-            //backgroundclr.push(`rgba(${Math.floor(Math.random() * 256)},${Math.floor(Math.random() * 256)},${Math.floor(Math.random() * 256)},0.2)`);
-            //borderclr.push(`rgba(${Math.floor(Math.random() * 256)},${Math.floor(Math.random() * 256)},${Math.floor(Math.random() * 256)},1)`);
-
-            backgroundclr.push(`rgba(0,0,0,0.2)`);
-            borderclr.push(`rgba(0,0,0,1)`);
-        });
-
-        dataIds.forEach(function(obj){
-            entries.push('');
-        });
-
-        entries = entries.reverse();
-        
-        if(chartName=='retweetChart')
-          title='Retweets';
-        else
-          title='Likes';
-
-        var ctx = document.getElementById(chartName);
-
-        var chart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-        labels: entries,
-        datasets: [{
-         label: title,
-         data: myData,
-         backgroundColor: backgroundclr,
-         borderColor: borderclr,
-         borderWidth: 1
-        }]
-        },
-        options: {
-        scales: {
-         yAxes: [{
-             ticks: {
-                 beginAtZero:true
-             }
-         }]
-        }
-        }
-      });
-    }
-
-    function updateTweetInfo(tweetId){
-
-        console.log('updating graphs');
-
-        $.ajax
-            ({
-               type: "get",
-               url: "/mainPage/update", 
-               data : `tweetId=${tweetId}`,
-               contentType: "application/json; charset=UTF-8",
-                    
-            }).done(function ( tweetData ) {
-                  
-                  var tweetInfoSpace=document.getElementById("tweetInfo");
-                  var tweetTag=`<div class="card-body"><div><h3>Number of likes: ${tweetData.likes}</h3><br><h3>Number of retweets: ${tweetData.retweets}</h3></div></div>`;
-
-                  tweetInfoSpace.innerHTML = tweetTag;
-
-                  var tweetSourceSpace = document.getElementById("sourceInfo");
-                  var sourceTag=`<div class="card-body"><div><h3>Source: ${tweetData.source}</h3></div></div>`;
-                  tweetSourceSpace.innerHTML = sourceTag;
-
-                  console.log('graphs updated');
-            });
-    }
-
-    function clearTweetInfos(){
-      document.getElementById("tweetInfo").innerHTML='';
-      document.getElementById("sourceInfo").innerHTML='';
-    }
-      
-    (function refresh() {console.log('entered ajax');
-          $.ajax
-            ({
-               type: "get",
-               url: "/mainPage/refresh", 
-               
-               contentType: "application/json; charset=UTF-8",
-                    
-            }).done(function ( response ) {
-                  
-                  console.log("Search for tweets completed");
-                  
-
-                  var tweetspace=document.getElementById("tweetBody");
-                  var tweetTag='';
-
-                  response.ids.forEach(function(obj){
-                      tweetTag += `<div id =${obj} onmouseover="updateTweetInfo('${obj}')" onmouseout="clearTweetInfos()"><blockquote class='twitter-tweet' data-lang='en'><a href='https://twitter.com/<%=currentUser.username%>/status/${obj}'></a></blockquote></div>`;
-                  });
-
-                  tweetspace.innerHTML = tweetTag;
-                  
-                  $('<script>').attr('src', "https://platform.twitter.com/widgets.js").appendTo('body');
-
-                  var retweetArr =[];
-                  response.retweets.forEach(function(obj){
-                      retweetArr.push(obj);
-                  });
-
-                  var likeArr =[];
-                  response.likes.forEach(function(obj){
-                      likeArr.push(obj);
-                  });
-
-                  createGraph('retweetChart',retweetArr,response.ids);
-                  createGraph('likeChart',likeArr,response.ids);
-
-                  clearTweetInfos();
-
-            }).then(function() {           
-             setTimeout(refresh, 60000);  
-          });
-      })();
-
-  </script>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <script src="scripts/mainPage.js"></script>
+    <script>
+    (function refresh() {console.log('entered ajax');
+      
+      $.ajax
+        ({
+           type: "get",
+           url: "/mainPage/refresh", 
+           
+           contentType: "application/json; charset=UTF-8",
+                
+        }).done(function ( response ) {
+              
+              console.log("Search for tweets completed");
+              
+
+              var tweetspace=document.getElementById("tweetBody");
+              var tweetTag='';
+
+              response.ids.forEach(function(obj){
+                  tweetTag += `<div id =${obj} onmouseover="updateTweetInfo('${obj}')" onmouseout="clearTweetInfos()"><center><blockquote class='twitter-tweet' data-lang='en'><a href='https://twitter.com/<%=currentUser.username%>/status/${obj}'></a></blockquote></center></div>`;
+              });
+
+              tweetspace.innerHTML = tweetTag;
+              
+              $('<script>').attr('src', "https://platform.twitter.com/widgets.js").appendTo('body');
+
+              var retweetArr =[];
+              response.retweets.forEach(function(obj){
+                  retweetArr.push(obj);
+              });
+
+              var likeArr =[];
+              response.likes.forEach(function(obj){
+                  likeArr.push(obj);
+              });
+
+              createGraph('retweetChart',retweetArr,response.ids);
+              createGraph('likeChart',likeArr,response.ids);
+
+              clearTweetInfos();
+
+        }).then(function() {         
+         setTimeout(refresh, 60000);  
+      });
+  })();
+  </script>
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 var Twit = require('twit');
-var config = require('./config');
+var config = require('./config-bot');
 var tweeter = require('./tweeter');
 var log = require('./logger');
 

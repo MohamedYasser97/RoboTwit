@@ -22,7 +22,9 @@
         <br>
         <button id="userButton" type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#emailSettings">Change Email</button>
         <br>
+        <%if(currentUser.accType=='developer'){%>
         <button id="userButton" type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#twitterSettings">Twitter Settings</button>
+        <%}%>
       </ul>
     
 
@@ -43,7 +45,6 @@
                         </div>
                     </div>
                     <div class="modal-footer">
-                      <input type="hidden" value="user" name="accType" />
                       <button type="submit" class="btn btn-primary">Save</button>
                       </form>
                   </div>
@@ -68,11 +69,10 @@
                           <input type="password" class="form-control" placeholder="New password" name="password" id = "firstPassword" onchange="passwordChecker()" required>
                           <br>
                           <input type="password" class="form-control" placeholder="Confirm password" name="passwordCheck" onchange="passwordChecker()" id = "confirmPassword" required>
-                          <div id="message"></div>
+                          <div id="passwordMessage"></div>
                         </div>
                     </div>
                     <div class="modal-footer">
-                      <input type="hidden" value="user" name="accType" />
                       <button type="submit" class="btn btn-primary" id="savePassword">Save</button>
                       </form>
                   </div>
@@ -92,14 +92,16 @@
                     </div>
                     <div class="modal-body">
                       <h6 class="modal-title">Change your email</h6><br>
-                      <form action="/changeemail" method="POST">
+                      <form action="/changeemail" method="POST" name ="emailForm">
                         <div class="form-group">
-                          <input type="email" class="form-control" placeholder="New_email@email.com" name="email" >
+                          <input type="email" class="form-control" placeholder="New_email@email.com" name="email" onchange="emailChecker()" id="firstEmail" required>
+                          <br>
+                          <input type="email" class="form-control" placeholder="Confirm E-mail" name="emailCheck" onchange="emailChecker()" id="confirmEmail" required>
+                          <div id="emailMessage"></div>
                         </div>
                     </div>
                     <div class="modal-footer">
-                      <input type="hidden" value="user" name="accType" />
-                      <button type="submit" class="btn btn-primary">Save</button>
+                      <button id="saveEmail" type="submit" class="btn btn-primary">Save</button>
                       </form>
                   </div>
                   </div>
@@ -107,6 +109,7 @@
               </div>
               <!--End Email Modal -->
 
+              <%if(currentUser.accType=='developer'){%>
               <div class="modal fade" id="twitterSettings" role="dialog" >
                 <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -148,8 +151,6 @@
                     </div>
                     <div class="modal-footer">
 
-                      <input type="hidden" value="user" name="accType" />
-
                       <button type="submit" class="btn btn-primary">Save</button>
 
                       </form>
@@ -158,37 +159,8 @@
                   </div>
                 </div>
               </div>
-
-<script>
-  function passwordChecker(){
-
-    var password = document.passwordForm.password.value;
-    var check = document.passwordForm.passwordCheck.value;
-
-    if(password!=check){
-
-        document.getElementById("firstPassword").setAttribute("class","form-control is-invalid");
-
-        document.getElementById("confirmPassword").setAttribute("class","form-control is-invalid");
-
-        document.getElementById("message").innerHTML="<small id='passwordHelp' class='text-danger'>Wrong Password</small>"
-
-        document.getElementById("savePassword").disabled=true;     
-
-    }else{
-
-        document.getElementById("firstPassword").setAttribute("class","form-control is-valid");
-
-        document.getElementById("confirmPassword").setAttribute("class","form-control is-valid");
-
-        document.getElementById("message").innerHTML="<div></div>"
-
-        document.getElementById("savePassword").disabled=false;
-    }
-
-  }
-</script>
-
+              <%}%>
+<script src="scripts/settings.js"></script>
 <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
