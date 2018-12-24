@@ -110,6 +110,11 @@ module.exports = {
             var tweetsRetweets = [];
             var tweetSource = [];
 
+            if(!data || !data.statuses){
+              res.send({ids : [''] , likes : [''] , retweets : [''], source : ['']});
+              return;
+            }
+
             data.statuses.forEach(function(obj){
 
                 var newData = {
@@ -186,6 +191,11 @@ module.exports = {
               var tweetsRetweets = [];
               var tweetSource = [];
 
+              if(!data || !data.statuses){
+                res.send({ids : [''] , likes : [''] , retweets : [''], source : ['']});
+                return;
+              }
+              
               data.statuses.forEach(function(obj){
 
                   var newData = {
